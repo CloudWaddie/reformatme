@@ -1,1 +1,3 @@
-windows.open("gogle.com");console.log("thing");alert("hi!!")
+windows.open("gogle.com");
+console.log("thing");
+alert("hi!!")
